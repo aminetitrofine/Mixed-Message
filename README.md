@@ -1,4 +1,4 @@
-# MIXED MESSAGES 
+# Mixed Messages
 this project logs randomly 3 messages to create a song.
 # using
 JavaScript
