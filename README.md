@@ -1,6 +1,6 @@
 # Mixed Messages
 this project logs randomly 3 messages to create a song.
-# using
+# Using
 JavaScript
 Git and Github
 Command Line
